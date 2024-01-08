@@ -17,8 +17,5 @@ Welcome to the TripAdvisor Clone website! This project is a responsive web appli
 ### 5. About Section
 - Information about the website, its purpose, and the team behind it.
 
-## Installation
-1. Clone the repository:
-
-   ```bash
+## visit the site
   git clone https://sbala1398.github.io/TripAdvisor-Clone/
